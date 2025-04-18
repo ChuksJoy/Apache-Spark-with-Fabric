@@ -23,7 +23,7 @@ In this lab, you will:
 
 ---
 
-## What You’ll Learn
+## What I Learnt
 
 - How to read data from a Fabric Lakehouse using PySpark
 - How to apply transformations using the Spark DataFrame API
@@ -40,13 +40,6 @@ In this lab, you will:
 
 ---
 
-## How to Use
-
-1. Open the notebook in your preferred environment (Fabric, Databricks, or local Jupyter)
-2. Follow the step-by-step instructions in `spark_analysis.ipynb`
-3. Modify the dataset or add new transformations to deepen your understanding
-
----
 
 ## Credits
 
@@ -56,5 +49,5 @@ This project is a part of a data engineering learning lab on Microsoft Fabric.
 
 ## Contact
 
-Have questions or feedback? Reach out on [LinkedIn](https://linkedin.com) or start a GitHub discussion.
+Have questions or feedback? Reach out on [LinkedIn](https://www.linkedin.com/in/joychuksnwosu/) or start a GitHub discussion.
 
